@@ -1,2 +1,2 @@
-# obfusort
-obfuscated java code to sort an array of ints
+# ObfuSort
+This program will print the contents of the $[] array in sorted order. Its contents currently contain {1,2,53465,564,563,6,3456,3456} , but you can edit the source code to let it sort any list of integers. The main method only prints the contents of the list; the code will sort the list while initializing its static variables. The sort code is run in the $() method, which calls the $(int) and l(int) methods, which in turn call eachother. The algorithm used is heapsort, which is O(n log(n)). The spacing of this code is meant to resemble the characters "sort( )", and was done manually. For simplicity, once reformatted into readable code, methods are at most 2 lines long. All of the code was written and spaced by me.
