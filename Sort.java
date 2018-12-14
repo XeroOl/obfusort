@@ -13,5 +13,5 @@
     return($[j         ]=($[l]           +=$                       [j])-$[j])==$    [l]-(                                   $[l]-=
                                                                                      $[j])&&                                l(l); 
                                                                                       }static                            int j=$
-                      /* By Edison Bertotti*/                                           .length,                         l=new 
+                                                                                        .length,                         l=new 
                                                                                            Sort(                      ).$();}
